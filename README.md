@@ -115,6 +115,4 @@ document.addEventListener('data-ajax:on-success', (e) => {
 
 ## 📜 License
 
-MIT License © Laurent Lassalle›tte
-
----›
+MIT License © Laurent Lassallette
